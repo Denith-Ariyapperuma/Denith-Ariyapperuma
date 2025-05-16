@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Denith-Ariyapperuma) ![Github](https://img.shields.io/github/followers/Denith-Ariyapperuma?label=Follow&style=social)
 
-💡 &nbsp;Let's explore anything and everything—code, creativity, and beyond!\
+💡 &nbsp;Code in the IDE, torque on the street—living life in the fast lane.
 🎓 &nbsp;I'm currently pursuing a BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT).\
 🌱 &nbsp;Currently learning *Java Servlets* and *Spring Boot*.\
 🎮 &nbsp;In my free time, I enjoy gaming and tech exploration!\
